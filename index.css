@@ -15,45 +15,40 @@ p{
   top: 0;
   left: 0px;
 }
-.tiananmen{
-  position: absolute;
-  top: 45px;
-  left: 270px;
-}
-.cloud{
+.airplane {
   position: absolute;
   top: 30px;
   left: 90px;
 }
-.flowers{
+.boat {
   position: absolute;
-  bottom:0px;
-  left:17px;
+  top: -1px;
+  right: 73px;
 }
-.butterflies1{
+.bus {
   position: absolute;
-  bottom: 100px;
-  left: 130px;
+  top: 230px;
+  left:650px;
 }
-.butterflies2{
+.car {
   position: absolute;
-  bottom: 140px;
-  left: 420px;
+  top:450px;
+  right:100px;
 }
-.duck{
-  position:absolute;
-  bottom:30px;
-  right:95px;
-}
-.tree{
+.subway {
   position: absolute;
-  top: 80px;
-  right: 60px;
+  top:425px;
+  left:35px;
+}
+.taxi {
+  position: absolute;
+  top: 235px;
+  left:280px;
 }
 .sam {
   position:absolute;
   top: 300px;
-  right: 250px;
+  left: 480px;
   filter:contrast(130%);
 }
 .opa:hover {
